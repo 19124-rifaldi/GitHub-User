@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GitHub User App</string>
+    <string name="username">Username</string>
+    <string name="company">Company :</string>
+    <string name="google">Google</string>
+    <string name="location">Location :</string>
+    <string name="singapore">Singapore</string>
+    <string name="repository">Repository :</string>
+    <string name="repoCount">120</string>
+    <string name="username_item">Username</string>
+    <string name="avatar_user_desc">avatar user</string>
+    <string name="search">search</string>
+    <string name="search_hint">input username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="welcome_text">click search button to search people</string>
+    <string name="empty_query">query is empty</string>
+    <string name="user_null">user not found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="user_photo_desc">user photo</string>
+    <string name="share_button_desc">share button</string>
+    <string name="null_data">-</string>
+    <string name="follower">Followers :</string>
+    <string name="following_title">Following :</string>
+    <string name="menu_setting">Setting</string>
+    <string name="favorite_user_menu_text">Favorite user</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="no_favorite_user">Tidak ada User yang di favorite kan</string>
+    <string name="favorite_title">Favorite User</string>
+    <string name="detail_title">Detail User</string>
+    <string name="add_user_to_favorite_list">add user to favorite list</string>
+    <string name="back_again">tekan back lagi untuk keluar</string>
+
+
+</resources>
